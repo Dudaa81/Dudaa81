@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**Dudaa81/Dudaa81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Olá! Eu sou Maria Eduarda 👋
 
-Here are some ideas to get you started:
+🎓 Estudante de Desenvolvimento de Sistemas
+💻 Interessada em Desenvolvimento Web
+📚 Atualmente aprimorando meus conhecimentos em PHP, Laravel, JavaScript e MySQL
+🚀 Buscando minha primeira oportunidade profissional na área de Tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Tecnologias
+
+- PHP
+- Laravel
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+- MySQL
+- Git & GitHub
+
+ Projetos
+
+🛍️ Loja de Pratas
+Sistema web desenvolvido como projeto de TCC, com catálogo
+de produtos, carrinho, pedidos, área administrativa e recursos
+de acessibilidade.
+
+🎮 Projeto Pokémon
+Interface web desenvolvida utilizando API, JavaScript,
+HTML e CSS.
+
+📫 Contato
+
+LinkedIn: www.linkedin.com/in/maria-queirozl
+E-mail: dudalopys82@gmail.com
