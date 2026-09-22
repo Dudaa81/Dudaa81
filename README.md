@@ -19,12 +19,12 @@
 
  Projetos
 
-🛍️ Loja de Pratas
+ - Loja de Pratas
  Sistema web desenvolvido como projeto de TCC, com catálogo
  de produtos, carrinho, pedidos, área administrativa e recursos
  de acessibilidade.                                       
 
- 🎮 Projeto Pokémon
+ - Projeto Pokémon
  Interface web desenvolvida utilizando API, JavaScript,
  HTML e CSS.
 
