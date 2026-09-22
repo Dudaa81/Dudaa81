@@ -1,10 +1,10 @@
 
  Olá! Eu sou Maria Eduarda 👋
 
- 🎓 Estudante de Desenvolvimento de Sistemas
- 💻 Interessada em Desenvolvimento Web
- 📚 Atualmente aprimorando meus conhecimentos em PHP, Laravel, JavaScript e MySQL
- 🚀 Buscando minha primeira oportunidade profissional na área de Tecnologia
+ 🎓 Estudante de Desenvolvimento de Sistemas         
+ 💻 Interessada em Desenvolvimento Web                  
+ 📚 Atualmente aprimorando meus conhecimentos em PHP, Laravel, JavaScript e MySQL             
+ 🚀 Buscando minha primeira oportunidade profissional na área de Tecnologia                
 
  Tecnologias
 
