@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=700&lines=Estudante+de+Desenvolvimento+de+Sistemas;Desenvolvimento+Web;PHP+%7C+Laravel+%7C+JavaScript;HTML+%7C+CSS+%7C+Bootstrap;Aprendendo+e+construindo+novos+projetos." alt="Typing animation"/>
 
-<br>
+<br><br>
 
 <a href="https://github.com/Dudaa81">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
@@ -22,9 +22,9 @@
 
 </div>
 
-<br><br>
+<br>
 
-## ✦︎ Sobre mim
+## 👩🏻‍💻 Sobre mim
 
 Olá! Eu sou **Maria Eduarda**, estudante de **Desenvolvimento de Sistemas**.
 
@@ -44,7 +44,7 @@ Atualmente, trabalho principalmente com **PHP, Laravel, JavaScript, HTML, CSS, B
 
 ### 🔧 Ferramentas
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=vscode,figma,git,github" />
 
 </div>
 
@@ -64,47 +64,37 @@ Atualmente, trabalho principalmente com **PHP, Laravel, JavaScript, HTML, CSS, B
 
 ## 🚀 Projeto em destaque
 
-<div>
+<div align="center">
 
 ### 💍 TCC — Loja de Pratas
 
-<div>
+</div>
 
-<p>
-Projeto desenvolvido como <strong>Trabalho de Conclusão de Curso</strong>, com foco na criação de um sistema web para uma loja de pratas.
-</p>
+O **TCC — Loja de Pratas** é um sistema web desenvolvido como **Trabalho de Conclusão de Curso**, criado para simular o funcionamento de uma loja de pratas e proporcionar uma experiência completa de compra e gerenciamento.
 
-<p>
-O sistema reúne funcionalidades voltadas para a experiência do cliente e para o gerenciamento da loja.
-</p>
+O projeto conta com uma área voltada aos clientes, permitindo visualizar produtos e realizar compras, além de uma área administrativa para gerenciamento da loja e dos pedidos.
 
-<table>
-<tr>
-<td align="center">🛍️<br><strong>Produtos</strong></td>
-<td align="center">🛒<br><strong>Carrinho</strong></td>
-<td align="center">📦<br><strong>Pedidos</strong></td>
-<td align="center">👤<br><strong>Administração</strong></td>
-</tr>
-<tr>
-<td align="center">🗄️<br><strong>Banco de dados</strong></td>
-<td align="center">♿<br><strong>Acessibilidade</strong></td>
-<td align="center">💻<br><strong>Interface Web</strong></td>
-<td align="center">⚙️<br><strong>Sistema</strong></td>
-</tr>
-</table>
+Entre as principais funcionalidades estão:
+
+- 🛍️ Catálogo de produtos
+- 🛒 Carrinho de compras
+- 📦 Gerenciamento de pedidos
+- 👤 Área administrativa
+- 🗄️ Banco de dados
+- ♿ Recursos de acessibilidade
+- 💻 Interface web
+
+<div align="center">
+
+**Tecnologias**
+
+`PHP` `Laravel` `JavaScript` `HTML` `CSS` `Bootstrap` `MySQL`
+
+</div>
 
 <br>
 
-<p>
-<strong>Tecnologias:</strong>
-PHP • Laravel • JavaScript • HTML • CSS • Bootstrap • MySQL
-</p>
-
-<p>
-💜 Este projeto representa uma experiência prática importante na minha formação em Desenvolvimento de Sistemas.
-</p>
-
-</div>
+> 💜 Este projeto representa uma experiência prática importante na minha formação em Desenvolvimento de Sistemas.
 
 ---
 
@@ -177,7 +167,7 @@ src="https://raw.githubusercontent.com/Dudaa81/Dudaa81/output/github-contributio
 
 </div>
 
-
+<br>
 
 <div align="center">
 
@@ -187,7 +177,19 @@ src="https://raw.githubusercontent.com/Dudaa81/Dudaa81/output/github-contributio
 
 <br><br>
 
+<a href="https://github.com/Dudaa81">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<a href="https://www.linkedin.com/in/maria-queirozl">
+<img src="https://img.shields.io/badge/LinkedIn-6C3FC5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/duda_.ql/">
+<img src="https://img.shields.io/badge/Instagram-9B59B6?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B59B6,50:6C3FC5,100:0D1117&height=100&section=footer" width="100%"/>
 
