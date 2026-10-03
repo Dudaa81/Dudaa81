@@ -64,13 +64,13 @@ Atualmente, trabalho principalmente com **PHP, Laravel, JavaScript, HTML, CSS, B
 
 ## 🚀 Projeto em destaque
 
-<div align="center">
+<div>
 
 ### 💍 TCC — Loja de Pratas
 
 </div>
 
-<div align="center">
+<div>
 
 <p>
 Projeto desenvolvido como <strong>Trabalho de Conclusão de Curso</strong>, com foco na criação de um sistema web para uma loja de pratas.
@@ -189,19 +189,7 @@ src="https://raw.githubusercontent.com/Dudaa81/Dudaa81/output/github-contributio
 
 <br><br>
 
-<a href="https://github.com/Dudaa81">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
-<a href="https://www.linkedin.com/in/maria-queirozl">
-<img src="https://img.shields.io/badge/LinkedIn-6C3FC5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/duda_.ql/">
-<img src="https://img.shields.io/badge/Instagram-9B59B6?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B59B6,50:6C3FC5,100:0D1117&height=100&section=footer" width="100%"/>
 
