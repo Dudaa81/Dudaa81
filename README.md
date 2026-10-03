@@ -56,8 +56,7 @@ Tenho buscado evoluir constantemente na área de tecnologia, aprendendo novas fe
 
 <br>
 
-## ✧ TCC — Loja de Pratas
-
+## 🚀 Projetos
 <div align="center">
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
@@ -71,6 +70,7 @@ Tenho buscado evoluir constantemente na área de tecnologia, aprendendo novas fe
 </div>
 
 <br>
+✧ TCC — Loja de Pratas
 
 Meu **Trabalho de Conclusão de Curso** consiste no desenvolvimento de um sistema web para uma **loja de pratas**, buscando unir uma interface moderna com funcionalidades para clientes e administração da loja.
 
