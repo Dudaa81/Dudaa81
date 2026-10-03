@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C3FC5,100:9B59B6&height=200&section=header&text=Maria%20Eduarda&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20de%20Sistemas&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=700&lines=Estudante+de+Desenvolvimento+de+Sistemas;Desenvolvimento+Web;PHP+%7C+Laravel+%7C+JavaScript;HTML+%7C+CSS+%7C+Bootstrap;Aprendendo+e+construindo+novos+projetos." alt="Typing animation"/>
 
-<br>
+<br><br>
 
 <a href="https://github.com/Dudaa81">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
