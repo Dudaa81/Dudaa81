@@ -24,7 +24,7 @@
 
 <br>
 
-## 👩🏻‍💻 Sobre mim
+## ✦︎ Sobre mim
 
 Olá! Eu sou **Maria Eduarda**, estudante de **Desenvolvimento de Sistemas**.
 
