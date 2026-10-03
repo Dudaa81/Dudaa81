@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=700&lines=Estudante+de+Desenvolvimento+de+Sistemas;Desenvolvimento+Web;PHP+%7C+Laravel+%7C+JavaScript;HTML+%7C+CSS+%7C+Bootstrap;Aprendendo+e+construindo+novos+projetos." alt="Typing animation"/>
 
-<br><br>
+<br>
 
 <a href="https://github.com/Dudaa81">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
@@ -177,7 +177,7 @@ src="https://raw.githubusercontent.com/Dudaa81/Dudaa81/output/github-contributio
 
 </div>
 
-<br>
+
 
 <div align="center">
 
