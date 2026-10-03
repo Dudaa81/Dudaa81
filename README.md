@@ -68,8 +68,6 @@ Atualmente, trabalho principalmente com **PHP, Laravel, JavaScript, HTML, CSS, B
 
 ### 💍 TCC — Loja de Pratas
 
-</div>
-
 <div>
 
 <p>
